@@ -1,6 +1,6 @@
 {
-    "name": "Hello World",
-    "short_name": "Hello",
+    "name": "BeeKeeping",
+    "short_name": "Bee",
     "icons": [{
       "src": "images/192.png",
       "sizes": "192x192",
