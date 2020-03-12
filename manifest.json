@@ -7,9 +7,9 @@
       "type": "image/png"
       },
       {
-        "src": "images/180.png",
+        "src": "images/180.jpg",
         "sizes": "180x180",
-        "type": "image/png"
+        "type": "image"
       },
       {
         "src": "images/512.png",
